@@ -10,15 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5defec00-76c3-4cc7-9a63-b8d9f817eb85" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JsonSerialize/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JsonSerialize/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/Arquivos/venda.json" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/Arquivos/venda.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/Models/Venda.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/Models/Venda.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/bin/Debug/net7.0/JsonSerialize.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/bin/Debug/net7.0/JsonSerialize.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/bin/Debug/net7.0/JsonSerialize.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/bin/Debug/net7.0/JsonSerialize.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/obj/Debug/net7.0/JsonSerialize.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/obj/Debug/net7.0/JsonSerialize.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/obj/Debug/net7.0/JsonSerialize.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/obj/Debug/net7.0/JsonSerialize.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/obj/Debug/net7.0/ref/JsonSerialize.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/obj/Debug/net7.0/ref/JsonSerialize.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/obj/Debug/net7.0/refint/JsonSerialize.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/obj/Debug/net7.0/refint/JsonSerialize.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TiposEspeciais/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TiposEspeciais/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +18,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -58,7 +55,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.JsonSerialize">
+  <component name="RunManager" selected=".NET Project.TiposEspeciais">
     <configuration name="JsonSerialize" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -106,12 +103,35 @@
       <updated>1701174257528</updated>
       <workItem from="1701174258870" duration="1314000" />
       <workItem from="1701175647663" duration="3255000" />
-      <workItem from="1701278826570" duration="3278000" />
+      <workItem from="1701278826570" duration="3991000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

@@ -9,8 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5defec00-76c3-4cc7-9a63-b8d9f817eb85" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.JsonSerialize/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JsonSerialize/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonSerialize/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JsonSerialize/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TiposEspeciais/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TiposEspeciais/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.JsonSerialize">
+  <component name="RunManager" selected=".NET Project.TiposEspeciais">
     <configuration name="JsonSerialize" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -103,7 +102,7 @@
       <updated>1701174257528</updated>
       <workItem from="1701174258870" duration="1314000" />
       <workItem from="1701175647663" duration="3255000" />
-      <workItem from="1701278826570" duration="4686000" />
+      <workItem from="1701278826570" duration="5086000" />
     </task>
     <servers />
   </component>

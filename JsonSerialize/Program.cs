@@ -1,6 +1,21 @@
 ﻿using JsonSerialize.Models;
 using Newtonsoft.Json;
 
+//Serializacao do objeto
+var dataAtual = DateTime.Now;
+var vendasEletronicos = new List<Venda>()
+{
+    new Venda(1, "pc-gamer", 4.500M, dataAtual, 450.00M),
+    new Venda(1, "teclado", 150.00M, dataAtual, null),
+    new Venda(1, "mouse", 80.00M, dataAtual, null),
+    new Venda(1, "Monitor", 1.299M, dataAtual, 129.99M)
+};
+
+var vendaSerializada = JsonConvert.SerializeObject(vendasEletronicos, Formatting.Indented);
+
+File.WriteAllText("C:\\Users\\river\\RiderProjects\\JsonSerialize\\JsonSerialize\\Arquivos\\venda.json", vendaSerializada);
+Console.WriteLine(vendaSerializada);
+
 //Deserializacao do objeto
 
 var conteudoDoArquivo =
@@ -9,23 +24,7 @@ var vendas = JsonConvert.DeserializeObject<List<Venda>>(conteudoDoArquivo);
 
 foreach (var venda in vendas)
 {
-    Console.WriteLine($"Id:{venda.Id}");
-    Console.WriteLine($"Produto:{venda.Produto}");
-    Console.WriteLine($"Preço:{venda.Preco}");
-    Console.WriteLine($"Data da venda:{venda.DataDaVenda}");
+    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Preco}, " +
+                      $"Data da venda: {venda.DataDaVenda.ToString("dd/MM/yyyy HH:mm")} " +
+                      $"{(venda.Desconto.HasValue ? $"Desconto de : {venda.Desconto}" : "")}");
 }
-
-//Serializacao do objeto
-var dataAtual = DateTime.Now;
-var vendasEletronicos = new List<Venda>()
-{
-    new Venda(1, "pc-gamer", 4.500M, dataAtual),
-    new Venda(1, "teclado", 150.00M, dataAtual),
-    new Venda(1, "mouse", 80.00M, dataAtual),
-    new Venda(1, "Monitor", 1.299M, dataAtual)
-};
-
-var vendaSerializada = JsonConvert.SerializeObject(vendasEletronicos, Formatting.Indented);
-
-File.WriteAllText("C:\\Users\\river\\RiderProjects\\JsonSerialize\\JsonSerialize\\Arquivos\\venda.json", vendaSerializada);
-Console.WriteLine(vendaSerializada);

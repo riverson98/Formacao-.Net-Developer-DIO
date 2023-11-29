@@ -16,6 +16,8 @@ var vendaSerializada = JsonConvert.SerializeObject(vendasEletronicos, Formatting
 File.WriteAllText("C:\\Users\\river\\RiderProjects\\JsonSerialize\\JsonSerialize\\Arquivos\\venda.json", vendaSerializada);
 Console.WriteLine(vendaSerializada);
 
+Console.WriteLine("---------------------Deserializacao do objeto--------------------");
+Console.WriteLine();
 //Deserializacao do objeto
 
 var conteudoDoArquivo =
@@ -28,3 +30,10 @@ foreach (var venda in vendas)
                       $"Data da venda: {venda.DataDaVenda.ToString("dd/MM/yyyy HH:mm")} " +
                       $"{(venda.Desconto.HasValue ? $"Desconto de : {venda.Desconto}" : "")}");
 }
+Console.WriteLine("---------------------Tipos anonimos--------------------");
+Console.WriteLine();
+//tipos anonimos em colecao
+vendas
+    .Select(vendaAnonima => new {vendaAnonima.Produto , vendaAnonima.Preco} )
+    .ToList()
+    .ForEach(it => Console.WriteLine($"Produto: {it.Produto}, Preço: {it.Preco}"));

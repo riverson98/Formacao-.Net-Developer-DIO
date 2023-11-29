@@ -30,6 +30,7 @@ variavelDinamica = true;
 Console.WriteLine($"Tipo da variavel {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
 Console.WriteLine();
 
+// tipo generico
 MeuArray<int> arrayInteiro = new MeuArray<int>();
 
 arrayInteiro.AdicionarElementoNoArray(30);
@@ -39,3 +40,15 @@ Console.WriteLine(arrayInteiro[0]);
 MeuArray<string> arrayString = new MeuArray<string>();
 arrayString.AdicionarElementoNoArray("teste");
 Console.WriteLine(arrayString[0]);
+Console.WriteLine();
+
+// metodos de extensoes
+var numero = 15;
+var par = false;
+
+par = numero.EhPar();
+
+var parOuImpar = $"O número {numero} é {(par ? "par" : "ímpar")}";
+Console.WriteLine("----------------------------Metodos de extensoes-----------------------------"); 
+Console.WriteLine(parOuImpar);
+

@@ -3,24 +3,24 @@
     "Id": 1,
     "Nome_Produto": "pc-gamer",
     "Preco": 4.500,
-    "DataDaVenda": "2023-11-29T14:42:32.8886758-03:00"
+    "DataDaVenda": "2023-11-29T15:12:04.5176554-03:00"
   },
   {
     "Id": 1,
     "Nome_Produto": "teclado",
     "Preco": 150.00,
-    "DataDaVenda": "2023-11-29T14:42:32.8886758-03:00"
+    "DataDaVenda": "2023-11-29T15:12:04.5176554-03:00"
   },
   {
     "Id": 1,
     "Nome_Produto": "mouse",
     "Preco": 80.00,
-    "DataDaVenda": "2023-11-29T14:42:32.8886758-03:00"
+    "DataDaVenda": "2023-11-29T15:12:04.5176554-03:00"
   },
   {
     "Id": 1,
     "Nome_Produto": "Monitor",
     "Preco": 1.299,
-    "DataDaVenda": "2023-11-29T14:42:32.8886758-03:00"
+    "DataDaVenda": "2023-11-29T15:12:04.5176554-03:00"
   }
 ]

@@ -1,0 +1,14 @@
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\bin\Debug\net7.0\TiposEspeciais.exe
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\bin\Debug\net7.0\TiposEspeciais.deps.json
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\bin\Debug\net7.0\TiposEspeciais.runtimeconfig.json
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\bin\Debug\net7.0\TiposEspeciais.dll
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\bin\Debug\net7.0\TiposEspeciais.pdb
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\TiposEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\TiposEspeciais.AssemblyInfoInputs.cache
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\TiposEspeciais.AssemblyInfo.cs
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\TiposEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\TiposEspeciais.dll
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\refint\TiposEspeciais.dll
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\TiposEspeciais.pdb
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\TiposEspeciais.genruntimeconfig.cache
+C:\Users\river\RiderProjects\JsonSerialize\TiposEspeciais\obj\Debug\net7.0\ref\TiposEspeciais.dll

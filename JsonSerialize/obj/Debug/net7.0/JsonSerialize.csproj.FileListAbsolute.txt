@@ -1,0 +1,17 @@
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\bin\Debug\net7.0\JsonSerialize.exe
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\bin\Debug\net7.0\JsonSerialize.deps.json
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\bin\Debug\net7.0\JsonSerialize.runtimeconfig.json
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\bin\Debug\net7.0\JsonSerialize.dll
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\bin\Debug\net7.0\JsonSerialize.pdb
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.csproj.AssemblyReference.cache
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.AssemblyInfoInputs.cache
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.AssemblyInfo.cs
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.csproj.CoreCompileInputs.cache
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.csproj.CopyComplete
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.dll
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\refint\JsonSerialize.dll
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.pdb
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\JsonSerialize.genruntimeconfig.cache
+C:\Users\river\RiderProjects\JsonSerialize\JsonSerialize\obj\Debug\net7.0\ref\JsonSerialize.dll

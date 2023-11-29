@@ -1,4 +1,6 @@
-﻿// tipos nullable
+﻿using TiposEspeciais.Models;
+
+// tipos nullable
 bool? desejaReceberEmail  = true;
 
 var mensagem = desejaReceberEmail.HasValue && desejaReceberEmail.Value 
@@ -26,3 +28,14 @@ Console.WriteLine($"Tipo da variavel {variavelDinamica.GetType()}, Valor: {varia
 
 variavelDinamica = true;   
 Console.WriteLine($"Tipo da variavel {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+Console.WriteLine();
+
+MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+arrayInteiro.AdicionarElementoNoArray(30);
+Console.WriteLine("----------------------------Tipo generico-----------------------------"); 
+Console.WriteLine(arrayInteiro[0]);
+
+MeuArray<string> arrayString = new MeuArray<string>();
+arrayString.AdicionarElementoNoArray("teste");
+Console.WriteLine(arrayString[0]);

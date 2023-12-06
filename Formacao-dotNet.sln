@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSerialize", "JsonSerial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposEspeciais", "TiposEspeciais\TiposEspeciais.csproj", "{DA46C86A-C27C-402D-B12B-4588D6F733F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-de-projetos", "Desafios-de-projetos\Desafios-de-projetos.csproj", "{E5510DFB-DD1E-4991-82C2-204913F29B98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DA46C86A-C27C-402D-B12B-4588D6F733F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA46C86A-C27C-402D-B12B-4588D6F733F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA46C86A-C27C-402D-B12B-4588D6F733F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5510DFB-DD1E-4991-82C2-204913F29B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5510DFB-DD1E-4991-82C2-204913F29B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5510DFB-DD1E-4991-82C2-204913F29B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5510DFB-DD1E-4991-82C2-204913F29B98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
